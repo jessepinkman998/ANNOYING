@@ -1,0 +1,29 @@
+a {color:green; font-size:20px; text-decoration: none;}
+
+a:hover {
+text-decoration: underline;
+}
+
+body {background-image:url("https://files.catbox.moe/yh9f9l.jpg");}
+
+h1, .minihead {color:darkgreen; text-align:center; font-weight:bold; font-size:20px;}
+
+h1  {font-size:37px;}
+
+.links {
+text-align: ;
+margin: 2px;
+padding:3px;}
+
+.mainBody {border:dashed green 3px;
+margin: 5px auto;
+height: 100%;
+min-height:455px;
+max-width:700px;
+background-image:linear-gradient(#88ff88 25%,#ffffff 55%);}
+
+.centerPic {height:200px; width:auto; /*box-shadow:0 0px 7px #787878;*/}
+
+.col1 {float:left;} .col2 {float:right;}
+
+
